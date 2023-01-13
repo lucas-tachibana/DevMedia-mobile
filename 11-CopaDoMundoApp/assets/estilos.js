@@ -12,6 +12,9 @@ const estilo = StyleSheet.create({
         color: '#fff',
         textAlign: 'center',
         marginVertical: 20
+    },
+    imagemFundo: {
+        paddingBottom: 15
     }
 });
 
