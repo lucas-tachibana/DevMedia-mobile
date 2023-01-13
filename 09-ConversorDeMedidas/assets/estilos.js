@@ -12,7 +12,7 @@ const estilo = StyleSheet.create({
         marginTop: 70
     },
     titulo: {
-        fontSize: 19,
+        fontSize: 15,
         color: '#fff',
         textAlign: 'center',
         marginVertical: 12
