@@ -35,6 +35,7 @@ const TelaInicio = (props) => {
   return (
     <ImageBackground source = { fundo } style = { estilo.imagemFundo }>
       <View style = { estilo.tela }>
+        
         <View style = { estilo.boxPergunta }>
           <Text style = { estilo.titulo }>
             Duvido você acertar!

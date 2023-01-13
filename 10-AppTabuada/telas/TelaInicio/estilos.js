@@ -13,12 +13,12 @@ const estilo = StyleSheet.create({
   },
 
   boxPergunta: {
-    backgroundColor: 'rgba(255,255,255,0.85)',
+    backgroundColor: 'rgba(255,255,255,0.78)',
     borderRadius: 10,
     margin: 20,
     padding: 20,
     alignItems: "center",
-    width: 320
+    width: 320,
   },
 
   titulo: {
