@@ -8,6 +8,8 @@ const estilo = StyleSheet.create({
     },
     containerFinal: {
         height: 145,
+        borderRadius: 20,
+        overflow: 'hidden'
     },
     fundoEscuro: {
         backgroundColor: 'rgba(0, 0, 0, 0.26)',

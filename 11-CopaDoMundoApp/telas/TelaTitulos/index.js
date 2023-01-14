@@ -1,8 +1,12 @@
 import React from "react";
-import { Text } from "react-native";
+import { ImageBackground, ScrollView, Text, View } from "react-native";
 
 export default function TelaTitulos(){
     return (
-        <Text>TelaTitulos</Text>
+        <ImageBackground>
+            <ScrollView>
+                
+            </ScrollView>
+        </ImageBackground>
     )
 }

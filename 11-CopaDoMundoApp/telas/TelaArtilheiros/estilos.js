@@ -9,6 +9,8 @@ const estilo = StyleSheet.create({
     },
     imagemFundoArtilheiros: {
         height: 180,
+        borderRadius: 20,
+        overflow: 'hidden',
     },
     fundoEscuro: {
         backgroundColor: 'rgba(0, 0, 0, 0.23)',
@@ -44,11 +46,10 @@ const estilo = StyleSheet.create({
     anos: {
         borderBottomLeftRadius: 20,
         borderBottomRightRadius: 20,
-        marginTop: 130,
         color: '#fff',
         textAlign: 'center',
         backgroundColor: '#00905c',
-        marginBottom: 20
+        marginTop: 115
     }
 
 });
