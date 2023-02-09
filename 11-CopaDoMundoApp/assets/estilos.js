@@ -13,9 +13,6 @@ const estilo = StyleSheet.create({
         textAlign: 'center',
         marginVertical: 20
     },
-    imagemFundo: {
-        paddingBottom: 15
-    }
 });
 
 export default estilo;
